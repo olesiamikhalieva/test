@@ -6,6 +6,6 @@ public class Hello {
         int b=23;
         int c=45;
         System.out.println(b+c);
-        System.out.println("new branch");
+        System.out.println("new branch2");
     }
 }
