@@ -5,7 +5,6 @@ public class Hello {
         System.out.println("Hello");
         int b=23;
         int c=45;
-        System.out.println(b+c);
         System.out.println("new branch2");
     }
 }
